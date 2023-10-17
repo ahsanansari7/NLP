@@ -1,0 +1,5 @@
+This is a new line with changing 
+
+ This line is being appended to a text.txt file
+ Now, Another line is appended or addedThis is more test being appended in the file.
+And another line is here
